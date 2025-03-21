@@ -1,0 +1,14 @@
+matplotlib==3.10.1
+mysql_connector_repackaged==0.3.1
+numpy==2.2.4
+openai==1.68.0
+pandas==2.2.3
+plotly==6.0.1
+pyecharts==2.0.8
+python_igraph==0.11.8
+qdrant_client==1.13.3
+Requests==2.32.3
+seaborn==0.13.2
+streamlit==1.43.2
+streamlit_echarts==0.4.0
+tqdm==4.67.1
