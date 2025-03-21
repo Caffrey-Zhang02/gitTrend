@@ -2,7 +2,7 @@
 
 A tool for fetching, analyzing, and visualizing GitHub repositories.
 
-This is directly translated from the file [中文README](./README.md).
+**This is directly translated from the file [中文README](./README.md).**
 
 ## Core Features
 
@@ -12,7 +12,10 @@ This is directly translated from the file [中文README](./README.md).
 - Retrieve detailed repository information, including contributors, star history, and README content:
     - Use the vector database Qdrant to store detailed non-relational information.
 - Perform data analysis based on locally saved data and provide a web interface to display the analysis results.
+    - ![Visualization](./images/visualization.png)
+
 - Build RAG using Qdrant and the Qwen API.
+    - ![RAG](./images/RAG.png)
 
 ## Installation and Usage
 

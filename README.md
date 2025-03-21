@@ -13,7 +13,9 @@ You can get English version README over [here](./README_en.md).
 - 获取仓库的详细信息，包括贡献者、star历史和README内容
     - 使用向量数据库Qdrant存储详细的非关系型信息
 - 基于本地保存的数据进行数据分析，并提供一个Web界面展示数据分析结果
+    - ![可视化](./images/visualization.png)
 - 基于Qdrant和Qwen api构建RAG
+    - ![RAG](./images/RAG.png)
 
 
 ## 安装与使用
