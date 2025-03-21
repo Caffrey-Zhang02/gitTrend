@@ -51,7 +51,7 @@ repo_details,_ = get_repo_details("owner/repo", "https://github.com/owner/repo",
 
  3. 运行Web应用（确保你的数据库中有点数据）:
 ```python
-stramlit run ./app/home.py
+streamlit run ./app/home.py
  ```
 
 # 其他说明：
