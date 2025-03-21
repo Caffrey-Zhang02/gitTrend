@@ -162,4 +162,4 @@ with st.expander("View More"):
         st.header("更多数据分析")
         tab1, tab2, tab3 = st.tabs(["Star-Fork 关系", "contributor网络", "自定义分析"])
 
-st.markdown('<div class="footer">GitHub项目智能助手 © 2025 | 基于RAG技术构建</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">GitHub项目智能助手 © 2025</div>', unsafe_allow_html=True)
