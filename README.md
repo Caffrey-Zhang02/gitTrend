@@ -2,6 +2,7 @@
 # GitHub Top Stars 
 
 一个获取、分析和可视化 GitHub 仓库的工具。
+
 You can get English version README over [here](./README_en.md).
 
 ## 核心功能
