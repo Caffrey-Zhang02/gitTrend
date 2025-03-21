@@ -1,6 +1,8 @@
-# GitHub Top Stars
+
+# GitHub Top Stars 
 
 一个获取、分析和可视化 GitHub 仓库的工具。
+You can get English version README over [here](./README_en.md).
 
 ## 核心功能
 
@@ -49,9 +51,6 @@ repo_details,_ = get_repo_details("owner/repo", "https://github.com/owner/repo",
  3. 运行Web应用（确保你的数据库中有点数据）:
 ```python
 stramlit run ./app/home.py
-
-# 获取仓库详情
-repo_details,_ = get_repo_details("owner/repo", "https://github.com/owner/repo", DEFAULT_SETTINGS)
  ```
 
 # 其他说明：
