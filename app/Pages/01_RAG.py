@@ -25,7 +25,7 @@ SETTINGS = {
     'mysql_password': 'root',
     'mysql_port': 3306,
     'qdrant_url': 'http://localhost:6333',
-    'qwen_api_key': 'sk-5f9692fe0afc4640a9bc543ada65941d'
+    'qwen_api_key': 'your_api_key'
 }
 
 # 初始化检索器和生成器
@@ -146,7 +146,7 @@ with st.container(border=False, height=670, key="main"):
 
 
 # 添加页脚
-st.markdown('<div class="footer">GitHub项目智能助手 © 2024 | 基于RAG技术构建</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">GitHub项目智能助手 © 2025 | 基于RAG技术构建</div>', unsafe_allow_html=True)
 
 
 st.sidebar.title("高级选项")

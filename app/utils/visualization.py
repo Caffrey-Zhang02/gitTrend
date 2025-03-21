@@ -26,7 +26,6 @@ SETTINGS = {
     'mysql_user': 'root',
     'mysql_password': 'root',
     'mysql_port': 3306,
-    'qwen_api_key': 'sk-5f9692fe0afc4640a9bc543ada65941d'
 }
 
 def conn_init():
